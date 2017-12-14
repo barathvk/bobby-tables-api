@@ -1,0 +1,8 @@
+database:
+  host: localhost
+  user: root
+  password:
+  database: bobby_tables
+jwt:
+  secret: somesecret
+users: 100
